@@ -1,4 +1,4 @@
-# GlitchHunter Glitch vs Gravitational Wave classifier 
+# GlitchHunter - Glitch vs Gravitational Wave classifier 
 
 Gravitational waves (GWs) are ripples in spacetime that travel at the speed of light, emanating from some of the most cataclysmic events in the universe. Predicted by Einstein's Theory of General Relativity, their detection not only confirms a fundamental aspect of our understanding of gravity but also opens a new window into observing cosmic phenomena. When massive objects like black holes or neutron stars spiral into each other and merge, they emit GWs, carrying information about their properties and the nature of gravity itself. However, the detection of these elusive waves is fraught with challenges. The signals are incredibly weak when they reach Earth, and the data collected by GW detectors, such as LIGO, are often contaminated with noise transients or "glitches" that can mimic the true GW signals. Differentiating between these glitches and real GW signals is crucial for astrophysical research and requires sophisticated analytical techniques.
 
