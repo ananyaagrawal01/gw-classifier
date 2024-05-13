@@ -8,8 +8,6 @@ This project build GlitchHunter, a glitch predictor  in the GW dettor data.  Gli
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
