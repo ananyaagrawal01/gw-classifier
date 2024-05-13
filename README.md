@@ -14,6 +14,17 @@ This project build GlitchHunter, a glitch predictor  in the GW dettor data.  Gli
 ## Installation
 
 Instructions on how to install and set up your project.
+1. Clone the repository:
+    ```
+    git clone https://github.com/your-username/your-project.git
+    ```
+
+2. Navigate to the project directory:
+    ```
+    cd your-project
+    ```
+
+3. Install the dependencies:
 
 ## Usage
 
