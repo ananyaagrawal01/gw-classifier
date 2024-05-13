@@ -16,7 +16,7 @@ This project build GlitchHunter, a glitch predictor  in the GW dettor data.  Gli
 Instructions on how to install and set up your project.
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/your-project.git
+    git clone https://github.com/ananyaagrawal01/gw-classifier.git
     ```
 
 2. Navigate to the project directory:
@@ -25,15 +25,20 @@ Instructions on how to install and set up your project.
     ```
 
 3. Install the dependencies:
+   The project has these dependencies that needs to to installed
+
+   pip install torch torchvision numpy pandas 
 
 ## Usage
 
-Guidelines on how to use your project, including code examples or screenshots.
+To execute the project, follow these steps:
+1. Open a terminal or command prompt.
+2. Navigate to the project directory:
+    ```
+    cd your-project
+    ```
+3. Run the following command to start the application:
+    ```
+    python run.py
+    ```
 
-## Contributing
-
-Information on how others can contribute to your project.
-
-## License
-
-Specify the license under which your project is distributed.
